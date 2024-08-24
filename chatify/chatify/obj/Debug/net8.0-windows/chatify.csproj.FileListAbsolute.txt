@@ -1,0 +1,16 @@
+D:\Users\wuzijie\source\repos\chatify\chatify\bin\Debug\net8.0-windows\chatify.exe
+D:\Users\wuzijie\source\repos\chatify\chatify\bin\Debug\net8.0-windows\chatify.deps.json
+D:\Users\wuzijie\source\repos\chatify\chatify\bin\Debug\net8.0-windows\chatify.runtimeconfig.json
+D:\Users\wuzijie\source\repos\chatify\chatify\bin\Debug\net8.0-windows\chatify.dll
+D:\Users\wuzijie\source\repos\chatify\chatify\bin\Debug\net8.0-windows\chatify.pdb
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.Form1.resources
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.csproj.GenerateResource.cache
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.AssemblyInfoInputs.cache
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.AssemblyInfo.cs
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.csproj.CoreCompileInputs.cache
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.dll
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\refint\chatify.dll
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.pdb
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\chatify.genruntimeconfig.cache
+D:\Users\wuzijie\source\repos\chatify\chatify\obj\Debug\net8.0-windows\ref\chatify.dll
